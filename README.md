@@ -1,7 +1,7 @@
 # Hi, I'm Troy 👋
 
 I'm a web developer who is passionate about creating a website worked perfectly
-Learning code is not that easy but I'm enjoy to coding and help anothers. I'm on the way to learn more stack and become a full-stack developer!!
+Learning code is not that easy but I'm enjoy to coding and help anothers. I'm on the way learning more technology to become a full-stack developer!!
 
 ### My tech stack: 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
