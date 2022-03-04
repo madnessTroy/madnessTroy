@@ -20,6 +20,26 @@ Learning code is not that easy but I'm enjoy to coding and help anothers. I'm on
 ![MongoDB](https://img.shields.io/badge/-MongoDB-336791?style=flat-square&logo=mongodb)
 ![My SQL](http://img.shields.io/badge/-MySQL-%23282C34?style=flat-square&logo=mysql)
 
-## Learning to improve my skill
+## I'm focusing on to improve:
 ![Sass](http://img.shields.io/badge/-Sass-CC2927?style=flat-square&logo=sass)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+
+## Checkout my projects I've done: 
+  - Travelling website (HTML-CSS-Bootstrap) 
+    - Source: https://github.com/madnessTroy/firstWebsite 
+    - Demo: https://madnesstroy.github.io/firstWebsite/
+  - Student Management (HTML-CSS-Bootstrap-JS)
+    - Source: https://github.com/madnessTroy/manage-student 
+    - Demo: https://madnesstroy.github.io/manage-student/
+  - Get news (HTML-CSS-Bootstrap-JS-Jquery)
+    - Source: https://github.com/madnessTroy/get-news   
+    - Demo: https://madnesstroy.github.io/get-news/
+  - Staff Management (React-Redux)
+    - Source: https://github.com/madnessTroy/first-react-app 
+    - Demo: https://nameless-dawn-02401.herokuapp.com/staffs
+  - Restaurant Website (React-Redux)
+    - Source: https://github.com/madnessTroy/FunixLabRJS101x 
+    - Demo: https://zen-benz-4fc29b.netlify.app/aboutus
+  - Staff Management (NodeJS-Express-MongoDB-Mongoose-View engine: EJS)
+    - Source: https://github.com/madnessTroy/NodeJS_ASM/
+    - Demo: https://staff-management-funix-njs101x.herokuapp.com/
