@@ -36,7 +36,7 @@ Learning code is not that easy but I'm enjoy to coding and help anothers. I'm on
     - Demo: https://madnesstroy.github.io/get-news/
   - Staff Management (React-Redux)
     - Source: https://github.com/madnessTroy/first-react-app 
-    - Demo: https://nameless-dawn-02401.herokuapp.com/staffs
+    - Demo: https://staff-management-react.herokuapp.com/staffs
   - Restaurant Website (React-Redux)
     - Source: https://github.com/madnessTroy/FunixLabRJS101x 
     - Demo: https://zen-benz-4fc29b.netlify.app/aboutus
